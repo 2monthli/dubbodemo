@@ -1,5 +1,5 @@
 # dubbodemo
-person-interface 作为服务接口
+person-interface 作为服务接口<br>
 person-center 作为服务提供者，实现服务接口
 person-client 作为服务消费者，调用服务接口
 
